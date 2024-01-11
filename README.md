@@ -12,3 +12,7 @@ ng build amal-test-lib
 
 npm login
 npm publish
+-----------------------------
+https://www.npmjs.com/package/amal-test-lib
+how to create a library in angular
+
